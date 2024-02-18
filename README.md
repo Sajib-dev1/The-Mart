@@ -7,55 +7,58 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About This Laravel project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+It is a customer-friendly e-commerce project. Here you can manage roles. Customer queries can be answered beautifully with AI. Can send Gmail, SMS, and invoices to customers. Customers can keep the product in the cart for a long time without buying it. After placing the product order, you can cancel the order. With this, customers can return and pay online even after receiving the product. Customers can buy by looking at top sales and reviews and there are also subscriber offers and various offers.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Features
 
-## Learning Laravel
+Feature 1: Multi Authentication,
+Feature 2: Roll Management System,
+Feature 3: Inventory Management,
+Feature 4: Search Functionality,
+Feature 5: Filtering,
+Feature 6: Mail verification,
+Feature 7: social login,
+Feature 8: Rest API Integration,
+Feature 9: Live chat & AI smart answer generator,
+Feature 10: Add cart
+Feature 11: Add wishlist
+Feature 12: Add Recently Viewed product
+Feature 13: Cart Update option
+Feature 14: Checkout option
+Feature 15: Billing Address, Ship to a Different Address
+Feature 16: Customer Invoice sent for Gmail,
+Feature 17: Customer SMS sent for Mobile,
+Feature 18: Admin Order cancel option,
+Feature 19: Customer Order cancel option,
+Feature 20: Customer Order return option,
+Feature 21: A lot of users.
+Feature 22: Category option (Add, Edit,soft-delete, restore, permanent delete).
+Feature 23: Subcategory option (Add, Edit,soft-delete, restore, permanent delete).
+Feature 24: Brand option (Add, Edit,soft-delete, restore, permanent delete & more future).
+Feature 25: Product unlimited store, product control & inventory add product, product store increment, decrement.
+Feature 26: Product tag search tag Waze product search, product color size edit.
+Feature 27: Category, subcategory, brand-wise product view.
+Feature 28: add a dynamic delivery charge.
+Feature 29: add a dynamic coupon add.
+Feature 30: add a dynamic coupon add.
+Feature 31: add a dynamic banner & banner product show.
+Feature 32: Upcoming offer product store.
+Feature 33: discount offer product store.
+Feature 34: Special discount for subscribers.
+Feature 35: Does anyone report for my side?
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Technologies Used
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Laravel
+PHP
+MySQL (or any other database)
+HTML/CSS (if applicable)
+JavaScript (if applicable)
+postman
+Rest API
 
 ## Security Vulnerabilities
 
