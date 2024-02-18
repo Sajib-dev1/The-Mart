@@ -14,7 +14,7 @@ It is a customer-friendly e-commerce project. Here you can manage roles. Custome
 
 ## Features
 
-<p>Feature 1: Multi Authentication</p>
+<p>Feature 1: &nbspce; Multi Authentication</p>
 <p>Feature 2: Roll Management System</p>
 <p>Feature 3: Inventory Management</p>
 <p>Feature 4: Search Functionality</p>
