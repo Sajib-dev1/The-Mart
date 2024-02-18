@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -14,51 +14,51 @@ It is a customer-friendly e-commerce project. Here you can manage roles. Custome
 
 ## Features
 
-<p>Feature 1: Multi Authentication,</p>
-Feature 2: Roll Management System,
-Feature 3: Inventory Management,
-Feature 4: Search Functionality,
-Feature 5: Filtering,
-Feature 6: Mail verification,
-Feature 7: social login,
-Feature 8: Rest API Integration,
-Feature 9: Live chat & AI smart answer generator,
-Feature 10: Add cart
-Feature 11: Add wishlist
-Feature 12: Add Recently Viewed product
-Feature 13: Cart Update option
-Feature 14: Checkout option
-Feature 15: Billing Address, Ship to a Different Address
-Feature 16: Customer Invoice sent for Gmail,
-Feature 17: Customer SMS sent for Mobile,
-Feature 18: Admin Order cancel option,
-Feature 19: Customer Order cancel option,
-Feature 20: Customer Order return option,
-Feature 21: A lot of users.
-Feature 22: Category option (Add, Edit,soft-delete, restore, permanent delete).
-Feature 23: Subcategory option (Add, Edit,soft-delete, restore, permanent delete).
-Feature 24: Brand option (Add, Edit,soft-delete, restore, permanent delete & more future).
-Feature 25: Product unlimited store, product control & inventory add product, product store increment, decrement.
-Feature 26: Product tag search tag Waze product search, product color size edit.
-Feature 27: Category, subcategory, brand-wise product view.
-Feature 28: add a dynamic delivery charge.
-Feature 29: add a dynamic coupon add.
-Feature 30: add a dynamic coupon add.
-Feature 31: add a dynamic banner & banner product show.
-Feature 32: Upcoming offer product store.
-Feature 33: discount offer product store.
-Feature 34: Special discount for subscribers.
-Feature 35: Does anyone report for my side?
+<p>Feature 1: Multi Authentication</p>
+<p>Feature 2: Roll Management System</p>
+<p>Feature 3: Inventory Management</p>
+<p>Feature 4: Search Functionality</p>
+<p>Feature 5: Filtering</p>
+<p>Feature 6: Mail verification</p>
+<p>Feature 7: social login</p>
+<p>Feature 8: Rest API Integration</p>
+<p>Feature 9: Live chat & AI smart answer generator</p>
+<p>Feature 10: Add cart</p>
+<p>Feature 11: Add wishlist</p>
+<p>Feature 12: Add Recently Viewed product</p>
+<p>Feature 13: Cart Update option</p>
+<p>Feature 14: Checkout option</p>
+<p>Feature 15: Billing Address, Ship to a Different Address</p>
+<p>Feature 16: Customer Invoice sent for Gmail</p>
+<p>Feature 17: Customer SMS sent for Mobile</p>
+<p>Feature 18: Admin Order cancel option</p>
+<p>Feature 19: Customer Order cancel option</p>
+<p>Feature 20: Customer Order return option</p>
+<p>Feature 21: A lot of users.</p>
+<p>Feature 22: Category option (Add, Edit,soft-delete, restore, permanent delete)</p>
+<p>Feature 23: Subcategory option (Add, Edit,soft-delete, restore, permanent delete)</p>
+<p>Feature 24: Brand option (Add, Edit,soft-delete, restore, permanent delete & more future)</p>
+<p>Feature 25: Product unlimited store, product control & inventory add product, product store increment, decrement</p>
+<p>Feature 26: Product tag search tag Waze product search, product color size edit.</p>
+<p>Feature 27: Category, subcategory, brand-wise product view</p>
+<p>Feature 28: add a dynamic delivery charge.
+<p>Feature 29: add a dynamic coupon add</p>
+<p>Feature 30: add a dynamic coupon add</p>
+<p>Feature 31: add a dynamic banner & banner product show</p>
+<p>Feature 32: Upcoming offer product store</p>
+<p>Feature 33: discount offer product store</p>
+<p>Feature 34: Special discount for subscribers</p>
+<p>Feature 35: Does anyone report for my side?</p>
 
 ## Technologies Used
 
-Laravel
-PHP
-MySQL (or any other database)
-HTML/CSS (if applicable)
-JavaScript (if applicable)
-postman
-Rest API
+<p>Laravel</p>
+<p>PHP</p>
+<p>MySQL (or any other database)</p>
+<p>HTML/CSS (if applicable)</p>
+<p>JavaScript (if applicable)</p>
+<p>postman</p>
+<p>Rest API</p>
 
 ## Security Vulnerabilities
 
