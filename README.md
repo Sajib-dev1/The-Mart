@@ -1,4 +1,4 @@
-<h1 align="center" font-size="300">Tha-Mart</h1>
+<h1 align="center">Tha-Mart</h1>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -17,6 +17,9 @@ It is a customer-friendly e-commerce project. Here you can manage roles. Custome
 <p>Feature 1: &nbsp; Multi Authentication</p>
 <p>Feature 2: &nbsp; Roll Management System</p>
 <p>Feature 3: &nbsp; Inventory Management</p>
+<p>Feature 3: &nbsp; Cash on Delivery Payment method</p>
+<p>Feature 3: &nbsp; SSLCOMMERZ Payment method</p>
+<p>Feature 3: &nbsp; STRIPE Payment method</p>
 <p>Feature 4: &nbsp; Search Functionality</p>
 <p>Feature 5: &nbsp; Filtering</p>
 <p>Feature 6: &nbsp; Mail verification</p>
