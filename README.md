@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## About This Laravel project
+<h2><a href="https://drive.google.com/drive/folders/14LoWLE78xmIG95yEh0GLxQ3l3cm9vgnL?usp=sharing"> Theis website some image skin short </a>  </h2>
+
 ## About This Laravel project
 
 It is a customer-friendly e-commerce project. Here you can manage roles. Customer queries can be answered beautifully with AI. Can send Gmail, SMS, and invoices to customers. Customers can keep the product in the cart for a long time without buying it. After placing the product order, you can cancel the order. With this, customers can return and pay online even after receiving the product. Customers can buy by looking at top sales and reviews and there are also subscriber offers and various offers.
