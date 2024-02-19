@@ -1,4 +1,4 @@
-<h1 align="center"><b>Tha-Mart</b></h1>
+<h1 align="center" width="400">Tha-Mart</h1>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
